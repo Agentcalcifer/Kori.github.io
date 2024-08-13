@@ -1,0 +1,54 @@
+.first-heading{
+  background-color: rgb(28, 226, 28);
+  padding: 75px;
+  border: solid black;
+  border-width: 7px;
+  text-align: center;
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-size: x-large;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+.first-paragraph{
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font: weight 600px;;
+  font-style: normal;
+  font-size: x-large;
+  
+}
+.first-div{padding: 10px;}
+body{background-color:azure ;}
+
+.carouselsize{
+  width: 500px;
+  height:400px;
+}
+
+ .first-carousel{color: black;}
+  .control{color: rgb(255, 0, 0);}
+  h5{color:springgreen;}
+
+
+
+.heading1{
+  padding:20px;
+  font-family: "Teko", sans-serif;
+  font-optical-sizing: auto;
+  font: weight 600px;;
+  font-style: normal;
+  font-size: x-large;
+}
+
+.vl {
+  border-left: 6px solid black;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 500px;
+}
+
+.carousel-control-prev{color: black;}
